@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "475564406512",
+    "firebase_url": "https://interndtu.firebaseio.com",
+    "project_id": "interndtu",
+    "storage_bucket": "interndtu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475564406512:android:d1285bae317412c5",
+        "android_client_info": {
+          "package_name": "com.ecelldtu.ip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475564406512-utbvk2359i63e6m33ubq73otc2d9jc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqYx9rX2v_NDr4PNbcq3wu05XhPorny8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
